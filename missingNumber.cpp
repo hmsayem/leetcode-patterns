@@ -1,8 +1,9 @@
-class Solution {
+// Problem 268. Missing Number
+class Solution {268. Missing Number
 public:
     int missingNumber(vector<int>& nums) {
         int res = 0;
-        for(int i = 0; i < nums.size(); i++){
+        for(int i = 0; i < nums.size(); i++) {
             res = res ^ i;
             res = res ^ nums[i];
         }

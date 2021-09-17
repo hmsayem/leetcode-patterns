@@ -1,7 +1,8 @@
+// Problem 70. Climbing Stairs
 class Solution {
 public:
     int dp[50];
-    int climb(int n, int l){
+    int climb(int n, int l) {
         if(l > n) return 0;
         else if(l == n) return 1;
         if(dp[l] != -1) return dp[l];
