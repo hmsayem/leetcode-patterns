@@ -1,5 +1,5 @@
 // Problem 268. Missing Number
-class Solution {268. Missing Number
+class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int res = 0;
