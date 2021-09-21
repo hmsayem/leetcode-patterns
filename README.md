@@ -6,6 +6,7 @@ This repository contains my solutions to the problems listed by [leetcode-patter
 | Title | Tag | Solution |
 | --- | --- | --- |
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/twoSum.cpp) |
+|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | `DP` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/maxSubArray.cpp) |
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | `DP` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/climbStairs.cpp) |
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | `Data Structure` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/deleteDuplicates.cpp) |
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | `DP` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/maxProfit.cpp) |
