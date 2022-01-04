@@ -2,7 +2,6 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        
         ListNode* curr = head;
         int cnt = 1;
         while(curr -> next != nullptr) {
