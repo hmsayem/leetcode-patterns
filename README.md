@@ -21,5 +21,6 @@ This repository contains my solutions to the problems listed by [leetcode-patter
 |[704. Binary Search](https://leetcode.com/problems/binary-search/)  | `Binary Search` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/search.cpp) |
 |[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)  | `Binary Search` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/nextGreatestLetter.cpp) |
 |[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/backspaceCompare.cpp) |
+|[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/peakIndexInMountainArray.cpp) |
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | `Fast & Slow Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/middleNode.cpp) |
 |[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/sortedSquares.cpp) |
