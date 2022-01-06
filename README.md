@@ -19,6 +19,7 @@ This repository contains my solutions to the problems listed by [leetcode-patter
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)  | `Arrays` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/findDuplicates.cpp) |
 |[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)  | `Arrays` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/findDisappearedNumbers.cpp) |
 |[704. Binary Search](https://leetcode.com/problems/binary-search/)  | `Binary Search` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/search.cpp) |
+|[744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)  | `Binary Search` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/nextGreatestLetter.cpp) |
 |[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/backspaceCompare.cpp) |
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | `Fast & Slow Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/middleNode.cpp) |
 |[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/sortedSquares.cpp) |
