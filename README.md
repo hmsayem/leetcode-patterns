@@ -25,3 +25,5 @@ This repository contains my solutions to the problems listed by [leetcode-patter
 |[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/peakIndexInMountainArray.cpp) |
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | `Fast & Slow Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/middleNode.cpp) |
 |[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/sortedSquares.cpp) |
+|[2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/construct2DArray.cpp) |
+
