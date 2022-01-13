@@ -11,6 +11,7 @@ This repository contains my solutions to the problems listed by [leetcode-patter
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | `Fast & Slow Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/deleteDuplicates.cpp) |
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | `DP` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/maxProfit.cpp) |
 |[136. Single Number](https://leetcode.com/problems/single-number/)  | `Arrays` `Bit Manipulation` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/singleNumber.cpp) |
+|[169. Majority Element](https://leetcode.com/problems/majority-element/)  | `sorting`  | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/majorityElement.cpp) |
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  |  `Arrays`| [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/containsDuplicate.cpp) |
 |[268. Missing Number](https://leetcode.com/problems/missing-number/)  | `Arrays` `Bit Manipulation` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/missingNumber.cpp) |
 |[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | `Arrays` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/findDuplicate.cpp) |
