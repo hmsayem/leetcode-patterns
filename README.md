@@ -13,6 +13,7 @@ This repository contains my solutions to the problems listed by [leetcode-patter
 |[136. Single Number](https://leetcode.com/problems/single-number/)  | `Arrays` `Bit Manipulation` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/singleNumber.cpp) |
 |[169. Majority Element](https://leetcode.com/problems/majority-element/)  | `sorting`  | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/majorityElement.cpp) |
 |[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  |  `Arrays`| [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/containsDuplicate.cpp) |
+|[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  `Arrays`| [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/productExceptSelf.cpp) |
 |[268. Missing Number](https://leetcode.com/problems/missing-number/)  | `Arrays` `Bit Manipulation` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/missingNumber.cpp) |
 |[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | `Arrays` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/findDuplicate.cpp) |
 |[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  | `DP` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/sumRange.cpp) |
