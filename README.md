@@ -8,6 +8,7 @@ This repository contains my solutions to the problems listed by [leetcode-patter
 |[1. Two Sum](https://leetcode.com/problems/two-sum/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/twoSum.cpp) |
 |[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | `DP` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/maxSubArray.cpp) |
 |[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | `DP` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/climbStairs.cpp) |
+|[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | `Arrays`  | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/setZeroes.cpp) |
 |[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | `Fast & Slow Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/deleteDuplicates.cpp) |
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | `DP` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/maxProfit.cpp) |
 |[136. Single Number](https://leetcode.com/problems/single-number/)  | `Arrays` `Bit Manipulation` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/singleNumber.cpp) |
@@ -26,5 +27,5 @@ This repository contains my solutions to the problems listed by [leetcode-patter
 |[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/peakIndexInMountainArray.cpp) |
 |[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)  | `Fast & Slow Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/middleNode.cpp) |
 |[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/sortedSquares.cpp) |
-|[2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)  | `Two Pointers` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/construct2DArray.cpp) |
+|[2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)  | `Arrays` | [Link](https://github.com/hmsayem/leetcode-patterns/blob/main/construct2DArray.cpp) |
 
